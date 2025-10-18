@@ -1,2 +1,3 @@
-# my_Git_Project
-Settting Up Git
+ 
+Settting Up first Git project
+
