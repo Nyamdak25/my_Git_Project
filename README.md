@@ -1,3 +1,2 @@
- 
-Settting Up first Git project
+ Settting Up first Git project
 
